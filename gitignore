@@ -1,0 +1,9 @@
+# secrets - this repo is PUBLIC, never commit your API key
+chat_config.json
+config.json
+
+# auto-generated at runtime
+flags/
+wins.json
+__pycache__/
+*.pyc
